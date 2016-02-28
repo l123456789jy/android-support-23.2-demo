@@ -16,7 +16,5 @@
 
 *  http://android-developers.blogspot.com/2016/02/android-support-library-232.html
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="https://raw.githubusercontent.com/l123456789jy/android-support-23.2-demo/master/2016_02_28_19_40_27.mp4" type="video/mp4">
-</video>
 
+![image](https://github.com/l123456789jy/android-support-23.2-demo/blob/master/GIF.gif)
