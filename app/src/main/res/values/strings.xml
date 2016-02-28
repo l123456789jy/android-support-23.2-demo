@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-support-23.2-demo</string>
+    <string name="moring_day_model">白天模式</string>
+    <string name="night_day_model">夜间模式</string>
+    <string name="diaglo">底部弹出diaglo</string>
+    <string name="day_mode">白天模式</string>
+    <string name="night_model">晚间模式</string>
+</resources>
